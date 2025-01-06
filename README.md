@@ -10,3 +10,8 @@ This project focuses on developing an autonomous vehicle for the Intelligent Gro
 - **Object Avoidance**: LiDAR-based object detection and avoidance, combined with custom algorithms for navigating around obstacles.
 - **Motor Control**: Efficient communication between a NVIDIA Jetson Nano and Arduino ESP32 to control motors via a Sabretooth motor driver.
 - **Hybrid Approach**: Combines Python-based software for computer vision processing on the Jetson Nano with motor control logic executed on the TM4C MCU.
+
+### Demo:
+![alt-text](Documentation/WorkingRobot.gif)
+
+
